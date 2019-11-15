@@ -1,0 +1,13 @@
+{
+  "name": "pooltogether-pod-contracts",
+  "version": "1.0.0",
+  "description": "Users can send their PoolTogether tickets to this contract to pool their chances of winning and split the prize",
+  "main": "index.js",
+  "repository": "git@github.com:pooltogether/pooltogether-pod-contracts.git",
+  "author": "Brendan Asselstine brendan@pooltogether.us",
+  "license": "GPLV3",
+  "private": false,
+  "dependencies": {
+    "@openzeppelin/cli": "^2.6.0"
+  }
+}
